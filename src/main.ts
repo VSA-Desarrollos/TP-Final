@@ -12,7 +12,7 @@ async function bootstrap() {
   
   // Configura CORS aquí
   app.enableCors({
-    origin: ['http://localhost:3001', 'https://tp-final-39700.web.app'], // Cambia esta URL al dominio del frontend
+    origin: ['http://localhost:3001', 'https://tp-final-39700.web.app', 'https://app-9d7fdcc2-2916-41fd-93f1-ef602d6afbcc.cleverapps.io'], // Cambia esta URL al dominio del frontend
     credentials: true, // Habilita las credenciales (cookies, encabezados de autenticación, etc.)
   });
 
