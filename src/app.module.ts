@@ -29,7 +29,7 @@ import { ChatGateway } from './chat-gateway';
     host: "byzezjykq2t1hufibqdh-mysql.services.clever-cloud.com",
     port: 3306,
     username: "unrythclcfa2nfle",
-    password: "unrythclcfa2nfle",
+    password: "upNUBvmOBnZCoad7DwqO",
     database: "byzezjykq2t1hufibqdh",
     entities: [
       "dist/**/**.entity{.ts,.js}", "node_modules/@nestjs/jwt"
